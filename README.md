@@ -1,4 +1,4 @@
-# Node.js Starter
+! Node.js Starter
 Single Page App setup using industry's best practices and modules.
 Node.js, Express, Mongoose, passport.js, component.io, Jade, Stylus and Bootstrap.
 
@@ -7,8 +7,8 @@ Node.js, Express, Mongoose, passport.js, component.io, Jade, Stylus and Bootstra
 [![image](https://i.cloudup.com/ls3TZxQeMb.png)](https://cloudup.com/c9m73vDrkZk)
 
 
-## Requirements
-* [NodeJS & NPM](http://nodejs.org/download)
+!  Requirements
+! [NodeJS & NPM](http://nodejs.org/download)
 * [MongoDB](http://www.mongodb.org/downloads)
 
 ## Installation
@@ -55,3 +55,4 @@ Run from your terminal:
 
 ## Licence 
 MIT
+ 
